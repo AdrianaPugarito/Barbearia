@@ -1,0 +1,62 @@
+body{
+    background: url(https://freerangestock.com/sample/47266/red-rough-texture-background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#banner{
+    width: 100%;
+    
+}
+
+.principal{
+    background-color: rgb(87, 90, 89);
+    padding: 50px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.titulo-principal{
+    padding-left: 20px;
+    color: rgb(241, 235, 235);
+    font-size: 50px;
+    text-shadow: 7px 4px 5px #0a0a0a;
+    text-align: center;
+}
+
+.titulo-centralizado{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+#missao{
+    font-size: 20px;
+}
+
+em strong{
+    color: red;
+}
+
+.items{
+    font-style: italic;
+}
+
+.beneficios{
+    background-color: rgb(216, 58, 58);
+    padding: 20px;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imgbeneficios{
+    width: 50%;
+}
+
